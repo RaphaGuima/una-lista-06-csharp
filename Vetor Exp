@@ -1,0 +1,15 @@
+var carro = new string [4];
+
+for(int i = 0; i < 4;i++)
+{
+    Console.WriteLine("Digite uma nome de carro:");
+    carro[i] = Console.ReadLine();
+}
+
+Console.WriteLine("Nomes de carros salvos:");
+for(int i = 0; i < 4;i++)
+{
+   Console.WriteLine(carro[i].ToUpper());
+}
+
+Console.ReadLine();
