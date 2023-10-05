@@ -1,0 +1,5 @@
+Vetor: Um vetor é uma estrutura de dados unidimensional que armazena uma coleção ordenada de elementos do mesmo tipo. Cada elemento no vetor é acessado por um índice inteiro, que representa a posição do elemento no vetor.
+
+Matriz: Uma matriz é uma estrutura de dados bidimensional que armazena elementos organizados em linhas e colunas. Cada elemento é acessado através de dois índices, um para a linha e outro para a coluna. 
+
+Cubo: Um cubo, em termos de estrutura de dados, é uma extensão do conceito de matriz para três dimensões. Assim como uma matriz, um cubo possui elementos organizados em três dimensões: largura, altura e profundidade. 
